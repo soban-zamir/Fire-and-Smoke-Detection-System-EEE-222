@@ -1,5 +1,5 @@
-****Fire and Smoke Detection System (EEE-222)**
-
+**Fire and Smoke Detection System (EEE-222)
+**
 This project implements a Fire and Smoke Detection System using the ATmega328P microcontroller programmed in AVR C.
 The system was designed and simulated in Proteus ISIS Professional 8.
 
