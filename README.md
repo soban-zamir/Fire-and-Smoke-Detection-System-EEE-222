@@ -25,7 +25,7 @@ Atmel Studio,
 AVR C Language,
 Claude by Anthropic
 
-**Author**
+
 **For more details or collaboration:**
 
 📧 sobanzamirm@gmail.com
